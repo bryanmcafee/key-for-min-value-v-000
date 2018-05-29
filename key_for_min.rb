@@ -12,4 +12,3 @@ def key_for_min_value(lownumb)
    end
    lowest_key
  end
-end
